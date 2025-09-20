@@ -27,17 +27,15 @@ Other: Firebase Storage (for media like stories & posts)
 
 🔐 Login & Signup
 
-<img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Login%20page.jpeg" width="250"/><img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Sign-up%20page.jpeg" width="250"/>
+<img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Login%20page.jpeg" width="250"/>  <img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Sign-up%20page.jpeg" width="250"/>
 
 🏠 Home & Opening
 
-<img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Opening%20page.jpeg" width="250"/>
-<img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Create%20post%20Page.jpeg" width="250"/>
+<img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Opening%20page.jpeg" width="250"/>  <img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Create%20post%20Page.jpeg" width="250"/>
 
 🔔 Notifications & Profile
 
-<img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Notification%20page.jpeg" width="250"/>
-<img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/User%20details%20page.jpeg" width="250"/>
+<img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Notification%20page.jpeg" width="250"/>  <img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/User%20details%20page.jpeg" width="250"/>
 
 👥 Friends
 
