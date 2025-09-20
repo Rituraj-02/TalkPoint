@@ -27,8 +27,7 @@ Other: Firebase Storage (for media like stories & posts)
 
 🔐 Login & Signup
 
-<img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Login%20page.jpeg" width="250"/>
-<img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Sign-up%20page.jpeg" width="250"/>
+<img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Login%20page.jpeg" width="250"/><img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Sign-up%20page.jpeg" width="250"/>
 
 🏠 Home & Opening
 
