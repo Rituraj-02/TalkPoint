@@ -24,11 +24,27 @@ Other: Firebase Storage (for media like stories & posts)
 
 🎥 Demo
 📸 Screenshots:
-### 🔐 Login
-![Login Screen]()
 
-### 📰 Feed
-![Feed Screen](screenshot/feed.png)
+🔐 Login & Signup
+<img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Login%20page.jpeg" width="250"/>
+<img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Sign-up%20page.jpeg" width="250"/>
 
-### 💬 Chat
-![Chat Screen](screenshot/chat.png)
+🏠 Home & Opening
+<img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Opening%20page.jpeg" width="250"/>
+<img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Create%20post%20Page.jpeg" width="250"/>
+
+🔔 Notifications & Profile
+<img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Notification%20page.jpeg" width="250"/>
+<img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/User%20details%20page.jpeg" width="250"/>
+
+👥 Friends
+<img src="https://github.com/Rituraj-02/TalkPoint/blob/master/Talk%20Point/Friend%20list.jpeg" width="250"/>
+
+🔗 GitHub Repository  
+👉 [TalkPoint GitHub Repo](https://github.com/Rituraj-02/TalkPoint.git) 
+
+📌 How to Run 
+1.Clone the repository: git clone https://github.com/Rituraj-02/TalkPoint.git
+2.Open the project in Android Studio
+3.Connect your app to Firebase (Authentication + Realtime Database + Storage)
+4.Build and run on an Android device or emulator
