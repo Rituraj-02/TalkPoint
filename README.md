@@ -24,3 +24,11 @@ Other: Firebase Storage (for media like stories & posts)
 
 🎥 Demo
 📸 Screenshots:
+### 🔐 Login
+![Login Screen]()
+
+### 📰 Feed
+![Feed Screen](screenshot/feed.png)
+
+### 💬 Chat
+![Chat Screen](screenshot/chat.png)
