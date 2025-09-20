@@ -1,4 +1,5 @@
 📱 TalkPoint - Social Media Android Application
+
 Duration: Mar 2024 – May 2024
 Tech Stack: Android (Java, XML), Firebase Authentication, Firebase Realtime Database
 
